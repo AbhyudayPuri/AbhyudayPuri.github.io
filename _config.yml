@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Sammit Jain"
+title                    : "Abhyuday Puri"
 title_separator          : "-"
-name                     : &name "Sammit Jain"
+name                     : &name "Abhyuday Puri"
 description              : &description "Student"
-url                      : https://sammitjain.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AbhyudayPuri.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sammitjain.github.io"
+repository               : "AbhyudayPuri.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -78,7 +78,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Sammit Jain"
+  name             : "Abhyuday Puri"
   avatar           : "profile.png"
   bio              : "Image Processing and Computer Vision Research student. Majoring in Mathematics and EEE"
   location         : "Goa, India"
