@@ -7,8 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Firstly, my heartfelt gratitude for this amazing design template, that can be found at [academicpages template](https://github.com/academicpages/academicpages.github.io) and is hosted on [GitHub pages](https://pages.github.com).
-
 A little about me
 ======
 I'm a Mathematics and Electronics student from BITS Pilani University, India. As of now, I'm in my fourth year and find myself particularly inclined towards research in image processing, computer vision, biomedical imaging and numerical analysis. I'm actively looking for opportunities to pursue a research thesis as part of my final year academic requirements.
@@ -21,11 +19,9 @@ My academic interests include
 ======
 * Image Processing 
 * Computer Vision
-* Biomedical Imaging
-* Numerical Analysis / Methods for ODEs and PDEs
-* Operations Research / Optimization
+* Virtual Reality
+* Augmented Reality
 * Digital Signal Processing
-* Programming in MATLAB, C, C++, Python
 
 I can talk to you endlessly about...
 ------
@@ -35,6 +31,6 @@ I can talk to you endlessly about...
 
 Still want to know more?
 ------
-Feel free to write to me at sammit.bitspilani@gmail.com
+Feel free to write to me at abhyudaypuri@gmail.com
 
 Thank you.
