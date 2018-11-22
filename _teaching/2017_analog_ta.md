@@ -1,10 +1,10 @@
 ---
-title: "Professional Teaching Assistant for CSF111"
+title: "Teaching Assistant for Analog ELectronics (EEE F341)"
 collection: teaching
-type: "Computer Programming (CS F111)"
-permalink: /teaching/2014-spring-teaching-1
+type: "Analog Electronics (EEE F341)"
+permalink: /teaching/2017_analog_ta
 venue: "BITS Pilani University, Department of Computer Science"
-date: 2016-01-11
+date: 2017-01-11
 location: "Goa, India"
 ---
 
